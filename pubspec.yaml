@@ -1,0 +1,38 @@
+name: weddingaro_user_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: 
+  provider:
+  flutter_sizer:
+  shared_preferences:
+  another_flushbar: 
+  google_fonts:
+  flutter_svg: ^2.0.9
+  expandable:
+  date_picker_timeline:
+  persistent_bottom_nav_bar_v2:
+  intl:
+  flutter_rating_bar:
+  country_state_city_pro: ^0.0.6
+  google_places_flutter: ^2.0.8
+  percent_indicator:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
